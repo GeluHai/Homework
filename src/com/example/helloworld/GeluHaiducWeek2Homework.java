@@ -170,5 +170,8 @@ class Contacts {
 
         //4
         getHmPunct4();
+
+        //asta am modificat
+        getHmPunct4();
     }
 }
