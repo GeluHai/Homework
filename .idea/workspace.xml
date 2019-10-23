@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dd6e33b-e8ff-4303-914c-3378f5de8fd8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/example/helloworld/GeluHaiducWeek5Homework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/haiducgeluweek4/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/haiducgeluweek4/GeluHWeek4Homework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/haiducgeluweek4/Organization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/haiducgeluweek5/Alien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/haiducgeluweek5/Character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/haiducgeluweek5/GeluHWeek5Homework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/haiducgeluweek5/God.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/haiducgeluweek5/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/helloworld/GeluHaiducWeek4Homework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/helloworld/GeluHaiducWeek4Homework.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/helloworld/GeluHaiducWeek5Homework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/helloworld/GeluHaiducWeek5Homework.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,6 +24,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -40,13 +51,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GeluHaiducWeek5Homework">
-    <configuration name="GeluHaiducWeek1Homework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.helloworld.GeluHaiducWeek1Homework" />
+  <component name="RunManager" selected="Application.GeluHWeek5Homework">
+    <configuration name="GeluHWeek4Homework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="haiducgeluweek4.GeluHWeek4Homework" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.helloworld.*" />
+          <option name="PATTERN" value="haiducgeluweek4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GeluHWeek5Homework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="haiducgeluweek5.GeluHWeek5Homework" />
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="haiducgeluweek5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,26 +117,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.helloworld.HelloWorld" />
-      <module name="HelloWorld" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.helloworld.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GeluHWeek5Homework" />
+        <item itemvalue="Application.GeluHWeek4Homework" />
         <item itemvalue="Application.GeluHaiducWeek5Homework" />
         <item itemvalue="Application.GeluHaiducWeek4Homework" />
         <item itemvalue="Application.GeluHaiducWeek2Homework" />
-        <item itemvalue="Application.GeluHaiducWeek1Homework" />
-        <item itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570364038292</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="week 5">
+      <created>1570961529530</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1570961529530</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,6 +170,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="week4" />
-    <option name="LAST_COMMIT_MESSAGE" value="week4" />
+    <MESSAGE value="week 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 5" />
   </component>
 </project>
